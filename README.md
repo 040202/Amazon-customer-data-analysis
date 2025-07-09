@@ -20,11 +20,11 @@ This project involves the exploratory data analysis (EDA) of Amazon customer dat
 ```
 amazon-customer-data-analysis/
 │
-├── analysis.ipynb           # Main code notebook
+├── Amazon analysis.ipynb    # Main code notebook
 ├── dataset.csv              # Raw data (anonymized if necessary)
 ├── requirements.txt         # Python dependencies
 ├── README.md                # Project overview
-├── 
+├── Amazon sales.pbix        # Power BI Dashboard
 └── images/                  # Plots and charts (optional)
 ```
 
@@ -35,14 +35,6 @@ amazon-customer-data-analysis/
 - High-value customers are repeat buyers with consistent patterns
 - Gender-wise spending patterns show slight variation by category
 
-## Sample Visualizations
-
-*(Add a few screenshots of graphs in the `images/` folder and embed here)*
-
-```markdown
-![Gender Distribution](images/gender_distribution.png)
-![Top Categories](images/top_categories.png)
-```
 
 ## Real-World Relevance
 
